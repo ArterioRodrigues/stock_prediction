@@ -32,6 +32,7 @@ Restrictions:
 - Data used has to be around the range of the training model The model will prediction a value based on the training based on MSFT
 
 ## Preview
+The code can be found in the src/Demo1.ipynb. Their are also multiple variations on this code in the same folder.
 This is a graph of the model accuracy.
 
 <img src = './plots/output.png'/>
