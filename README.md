@@ -63,7 +63,7 @@ for i in range(60):
 ```
 This create a prediction of 60 days for apple stock with the above give model.
 
-<img src = './plots/Screen Shot 2022-07-19 at 12.27.25 AM.png'/>
+<img src = './plots/Screen Shot 2022-07-19 at 12.27.25 AM.png' style = "height:500px;"/>
 
 ## Technologies
 
